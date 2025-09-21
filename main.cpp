@@ -59,8 +59,8 @@ int main() {
     }
 
     cout << "\n";
-    printAnimated(lightPink + "      ✨  Iyang ✨" + reset, 50);
 
     cout << "\n";
     return 0;
+
 }
